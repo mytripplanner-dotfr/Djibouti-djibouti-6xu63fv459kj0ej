@@ -1,0 +1,457 @@
+{
+  "pays": "Djibouti",
+  "drapeau": "🇩🇯",
+  "symbole": "🐪",
+  "titre": "Évasion Sereine à Djibouti : Entre Lacs Salés et Récifs Coralliens",
+  "budget_total": "Environ 3900 - 4200 €/personne",
+  "duree": "15 jours",
+  "date_debut": "2026-02-23",
+  "date_fin": "2026-03-10",
+  "temps_vol": "15h (depuis Guillon, France, incluant le trajet vers CDG et l'escale)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en Terre de Sel et de Soleil",
+      "legende": "Après un long voyage, installez-vous en douceur dans la capitale djiboutienne. Profitez d'une première immersion relaxante dans l'ambiance locale.",
+      "lieu": "Djibouti Ville",
+      "activites": [
+        "✈️ <strong>Vol depuis Paris (CDG) vers Djibouti (JIB)</strong>: Un voyage transcontinental pour atteindre cette perle de la Corne de l'Afrique.",
+        "🛬 <strong>Arrivée à l'aéroport international de Djibouti-Ambouli</strong>: Accueil et transfert vers votre hébergement pour un début de séjour en toute sérénité.",
+        "🛏️ <strong>Installation à l'hôtel et repos</strong>: Prenez le temps de vous rafraîchir et de vous détendre après le vol.",
+        "🚶‍♂️ <strong>Première balade digestive en soirée</strong>: Une promenade légère pour s'imprégner des premières impressions de la ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le décalage horaire est de +2h en hiver par rapport à la France. Prévoyez une tenue légère et confortable dès l'arrivée."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🕌",
+      "titre": "Découverte de la Capitale et de ses Saveurs",
+      "legende": "Plongez dans l'effervescence du marché central, admirez l'architecture coloniale et savourez la cuisine locale pour une immersion culturelle douce.",
+      "lieu": "Djibouti Ville",
+      "activites": [
+        "🛍️ <strong>Exploration du Marché Central</strong>: Flânez parmi les étals colorés, découvrez les épices locales et l'artisanat djiboutien.",
+        "🚶‍♀️ <strong>Balade dans le quartier européen et ses bâtiments coloniaux</strong>: Admirez l'héritage architectural et l'ambiance paisible de cette partie de la ville.",
+        "☕ <strong>Pause-café traditionnelle au bord de la mer</strong>: Savourez un café local ou un thé à la menthe avec une vue apaisante sur la mer Rouge."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Marché Central, Djibouti",
+          "categorie": "Marché",
+          "coords": { "lat": 11.5880, "lng": 43.1480 }
+        },
+        {
+          "nom_recherche": "Quartier Européen, Djibouti",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 11.5900, "lng": 43.1430 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Conseil Gourmand",
+          "texte": "N'hésitez pas à goûter le thé à la menthe local, très rafraîchissant et souvent servi avec des dattes."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🧂",
+      "titre": "Merveille Salée : Le Lac Assal",
+      "legende": "Partez à la découverte du Lac Assal, le point le plus bas d'Afrique, un spectacle naturel saisissant de sel et de volcans éteints. Une expérience unique et apaisante.",
+      "lieu": "Lac Assal",
+      "activites": [
+        "🚗 <strong>Trajet vers le Lac Assal</strong>: Une route panoramique d'environ 2 heures vous mènera à ce site exceptionnel.",
+        "👀 <strong>Contemplation du Lac Assal et de ses formations de sel</strong>: Admirez les paysages lunaires et les cristaux de sel scintillants sous le soleil.",
+        "🚶‍♂️ <strong>Courte balade sur la croûte de sel</strong>: Marchez prudemment sur cette étendue immaculée, un moment de pure connexion avec la nature."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lac Assal, Djibouti",
+          "categorie": "Lac salé",
+          "coords": { "lat": 10.4000, "lng": 42.4000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "La forte salinité du lac permet de flotter sans effort. Prévoyez de l'eau en abondance et des chaussures fermées pour protéger vos pieds du sel."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌋",
+      "titre": "Mystères Volcaniques du Goubet",
+      "legende": "Explorez le Goubet al-Kharab, une baie profonde entourée de volcans éteints, offrant des paysages lunaires et une tranquillité absolue. Un lieu idéal pour la contemplation.",
+      "lieu": "Goubet al-Kharab",
+      "activites": [
+        "🚗 <strong>Trajet vers le Goubet al-Kharab</strong>: Une courte route depuis le Lac Assal vous mènera à cette baie énigmatique.",
+        "📸 <strong>Admiration des paysages volcaniques et des \"Démons\" du Goubet</strong>: Observez les formations rocheuses impressionnantes et les eaux sombres.",
+        "🧺 <strong>Pique-nique avec vue sur la baie</strong>: Profitez d'un repas simple dans un cadre spectaculaire et paisible."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Goubet al-Kharab, Djibouti",
+          "categorie": "Baie volcanique",
+          "coords": { "lat": 11.5000, "lng": 42.3500 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Attention",
+          "texte": "Le Goubet est réputé pour ses requins, mais ils sont généralement inoffensifs. La baignade est possible mais restez vigilant et informez-vous auprès des locaux."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "⛵",
+      "titre": "La Ville Blanche de Tadjourah",
+      "legende": "Prenez le bateau pour Tadjourah, la \"Ville Blanche\", et découvrez son charme historique, ses plages paisibles et son atmosphère décontractée. Une journée de détente et de culture.",
+      "lieu": "Tadjourah",
+      "activites": [
+        "🚢 <strong>Traversée en ferry vers Tadjourah</strong>: Une agréable balade en mer pour rejoindre cette ville côtière historique.",
+        "🚶‍♂️ <strong>Découverte de la vieille ville et de ses sept mosquées</strong>: Flânez dans les ruelles et admirez l'architecture traditionnelle.",
+        "🏖️ <strong>Détente sur une plage de sable fin</strong>: Profitez du soleil et des eaux calmes pour un moment de pure relaxation."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Port de Tadjourah, Djibouti",
+          "categorie": "Port",
+          "coords": { "lat": 11.7780, "lng": 42.8990 }
+        },
+        {
+          "nom_recherche": "Vieille Ville, Tadjourah",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 11.7800, "lng": 42.9000 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "📜",
+          "titre": "Histoire",
+          "texte": "Tadjourah est l'une des plus anciennes villes de la région, imprégnée d'histoire et de traditions afar. C'était un important port commercial."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🌴",
+      "titre": "Sérénité Côtière et Fraîcheur Montagnarde",
+      "legende": "Profitez des plages immaculées de Tadjourah ou échappez à la chaleur en montant vers Randa, un village de montagne offrant une brise rafraîchissante et des vues panoramiques.",
+      "lieu": "Tadjourah / Randa",
+      "activites": [
+        "🏖️ <strong>Matinée farniente sur les plages de Tadjourah</strong>: Baignade, lecture ou simplement profiter du calme de la côte.",
+        "🚗 <strong>Excursion vers Randa et ses paysages verdoyants (si souhaité)</strong>: Une escapade en altitude pour découvrir une facette plus verte de Djibouti.",
+        "🌅 <strong>Coucher de soleil sur la côte</strong>: Un spectacle de couleurs apaisant pour clore la journée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Plage de Tadjourah, Djibouti",
+          "categorie": "Plage",
+          "coords": { "lat": 11.7850, "lng": 42.9050 }
+        },
+        {
+          "nom_recherche": "Randa, Djibouti",
+          "categorie": "Village de montagne",
+          "coords": { "lat": 11.8500, "lng": 42.8000 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "⛰️",
+          "titre": "Contraste",
+          "texte": "Randa est un havre de paix, offrant un contraste saisissant avec les paysages désertiques. Idéal pour une bouffée d'air frais et des températures plus douces."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🔄",
+      "titre": "Retour à la Capitale et Après-midi Libre",
+      "legende": "Retournez à Djibouti Ville pour une journée plus calme. Profitez de l'après-midi pour vous détendre, faire du shopping ou explorer à votre rythme.",
+      "lieu": "Djibouti Ville",
+      "activites": [
+        "🚢 <strong>Retour en ferry vers Djibouti Ville</strong>: Une nouvelle traversée pour rejoindre la capitale.",
+        "🍽️ <strong>Déjeuner dans un restaurant local</strong>: Savourez les saveurs djiboutiennes dans une ambiance décontractée.",
+        "🛍️ <strong>Temps libre pour le shopping ou la détente à l'hôtel</strong>: L'occasion de flâner ou de se reposer avant de nouvelles aventures."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les marchés locaux regorgent d'artisanat et d'épices, parfaits pour ramener des souvenirs authentiques de votre voyage."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🗿",
+      "titre": "Paysages Lunaires du Lac Abbé",
+      "legende": "Embarquez pour une aventure vers le Lac Abbé, célèbre pour ses cheminées de calcaire et ses sources chaudes. Un paysage surréaliste et une expérience inoubliable.",
+      "lieu": "Lac Abbé",
+      "activites": [
+        "🚗 <strong>Départ matinal pour le Lac Abbé</strong>: Un long trajet (environ 4-5h) à travers des paysages désertiques fascinants.",
+        "👀 <strong>Découverte des cheminées de calcaire et des fumerolles</strong>: Explorez ce site unique, où la terre \"respire\" à travers des formations géologiques impressionnantes.",
+        "♨️ <strong>Baignade relaxante dans les sources chaudes naturelles</strong>: Un moment de bien-être dans un cadre exceptionnel.",
+        "🏕️ <strong>Nuit en campement traditionnel près du lac</strong>: Une expérience authentique sous les étoiles, au cœur du désert."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lac Abbé, Djibouti",
+          "categorie": "Lac salé",
+          "coords": { "lat": 11.1667, "lng": 41.8000 }
+        },
+        {
+          "nom_recherche": "Sources Chaudes du Lac Abbé, Djibouti",
+          "categorie": "Source chaude",
+          "coords": { "lat": 11.1700, "lng": 41.8050 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "✨",
+          "titre": "Magie du Matin",
+          "texte": "Le lever du soleil sur le Lac Abbé est un spectacle à ne pas manquer, avec les couleurs changeantes sur les cheminées de calcaire et la brume matinale."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🌅",
+      "titre": "Aube Magique et Retour Paisible",
+      "legende": "Assistez à un lever de soleil spectaculaire sur le Lac Abbé avant de reprendre la route vers la capitale, les souvenirs plein la tête.",
+      "lieu": "Lac Abbé / Djibouti Ville",
+      "activites": [
+        "🌅 <strong>Lever de soleil sur le Lac Abbé</strong>: Un moment inoubliable pour admirer la beauté du paysage au petit matin.",
+        "🍳 <strong>Petit-déjeuner au campement</strong>: Partagez un repas simple et convivial avant de reprendre la route.",
+        "🚗 <strong>Retour vers Djibouti Ville</strong>: Un trajet de retour pour se reposer et se remémorer les merveilles du désert.",
+        "😴 <strong>Après-midi de repos à l'hôtel</strong>: Détendez-vous et rechargez vos batteries après cette aventure."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🤝",
+          "titre": "Rencontres",
+          "texte": "Les Afars, habitants de la région, sont très accueillants. N'hésitez pas à échanger avec eux pour découvrir leur culture et leur mode de vie."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🐠",
+      "titre": "Paradis Sous-Marin et Plages Secrètes",
+      "legende": "Évadez-vous vers les eaux cristallines de Khor Ambado ou l'île de Moucha pour une journée de baignade, de snorkeling et de pure détente au soleil.",
+      "lieu": "Khor Ambado / Île de Moucha",
+      "activites": [
+        "🚗 <strong>Trajet vers Khor Ambado ou bateau vers l'île de Moucha</strong>: Choisissez votre destination pour une journée aquatique.",
+        "🏊‍♀️ <strong>Baignade et snorkeling dans les eaux turquoise</strong>: Explorez les fonds marins colorés et nagez parmi les poissons tropicaux.",
+        "🍽️ <strong>Déjeuner pique-nique sur la plage</strong>: Un repas simple et savoureux les pieds dans le sable, face à la mer."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Plage de Khor Ambado, Djibouti",
+          "categorie": "Plage",
+          "coords": { "lat": 11.5000, "lng": 43.0500 }
+        },
+        {
+          "nom_recherche": "Île de Moucha, Djibouti",
+          "categorie": "Île",
+          "coords": { "lat": 11.7200, "lng": 43.2300 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🤿",
+          "titre": "Vie Marine",
+          "texte": "Les fonds marins de Djibouti sont réputés pour leur richesse. Même sans plonger, le snorkeling offre un aperçu magnifique de la vie marine."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🏞️",
+      "titre": "Les Profondeurs Mystérieuses du Lac Ghoubbet",
+      "legende": "Explorez le Lac Ghoubbet, une étendue d'eau salée nichée au fond d'une dépression volcanique, offrant des vues spectaculaires et une atmosphère sereine.",
+      "lieu": "Lac Ghoubbet",
+      "activites": [
+        "🚗 <strong>Excursion vers le Lac Ghoubbet</strong>: Un trajet pittoresque pour découvrir ce lac aux eaux profondes.",
+        "👀 <strong>Observation des paysages environnants et des oiseaux</strong>: Admirez la faune locale et les formations rocheuses impressionnantes.",
+        "🧘‍♀️ <strong>Moment de calme et de contemplation au bord du lac</strong>: Profitez de la tranquillité de ce lieu unique pour vous ressourcer."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lac Ghoubbet, Djibouti",
+          "categorie": "Lac salé",
+          "coords": { "lat": 11.5000, "lng": 42.3500 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🐦",
+          "titre": "Ornithologie",
+          "texte": "Le Lac Ghoubbet est un lieu de prédilection pour les flamants roses et autres oiseaux migrateurs, offrant de belles opportunités d'observation."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🧖‍♀️",
+      "titre": "Journée Bien-être et Détente Urbaine",
+      "legende": "Offrez-vous une journée de relaxation à Djibouti Ville. Profitez d'un hammam traditionnel ou d'un massage pour recharger vos batteries après ces explorations.",
+      "lieu": "Djibouti Ville",
+      "activites": [
+        "🧖‍♀️ <strong>Séance de hammam ou massage relaxant</strong>: Un moment de pure détente pour apaiser le corps et l'esprit.",
+        "🚶‍♂️ <strong>Flânerie dans les rues commerçantes</strong>: Découvrez les boutiques locales et l'ambiance animée de la ville.",
+        "🍽️ <strong>Dîner dans un restaurant avec vue sur la mer</strong>: Savourez un délicieux repas en admirant le coucher de soleil sur la mer Rouge."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "💆‍♀️",
+          "titre": "Spa",
+          "texte": "Plusieurs hôtels proposent des services de spa et de hammam. Renseignez-vous pour une expérience authentique et relaxante."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🏖️",
+      "titre": "Sérénité à Arta Plage",
+      "legende": "Dirigez-vous vers Arta Plage, une crique paisible et moins fréquentée, idéale pour une dernière journée de farniente au bord de l'eau et de baignade.",
+      "lieu": "Arta Plage",
+      "activites": [
+        "🚗 <strong>Trajet vers Arta Plage</strong>: Une courte route pour atteindre cette plage tranquille et pittoresque.",
+        "🌊 <strong>Baignade et détente sur la plage</strong>: Profitez des eaux calmes et du sable chaud pour un moment de pur repos.",
+        "🐠 <strong>Snorkeling dans les eaux calmes</strong>: Explorez les fonds marins peu profonds et observez la vie aquatique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Arta Plage, Djibouti",
+          "categorie": "Plage",
+          "coords": { "lat": 11.5000, "lng": 42.9000 }
+        }
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Tranquillité",
+          "texte": "Arta Plage est un excellent spot pour observer les poissons colorés près du rivage, même sans équipement de plongée, et profiter d'une atmosphère paisible."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🎁",
+      "titre": "Souvenirs et Préparatifs de Départ",
+      "legende": "Profitez de cette dernière journée pour acheter des souvenirs, revisiter vos lieux préférés ou simplement vous détendre avant le départ.",
+      "lieu": "Djibouti Ville",
+      "activites": [
+        "🛍️ <strong>Achats de souvenirs au marché ou dans les boutiques</strong>: Trouvez les derniers cadeaux et objets artisanaux pour prolonger le voyage.",
+        "🚶‍♀️ <strong>Dernière balade le long de la Corniche</strong>: Profitez une dernière fois de la brise marine et des vues sur le port.",
+        "🍽️ <strong>Dîner d'adieu avec spécialités locales</strong>: Savourez un dernier repas typique pour clore votre aventure djiboutienne."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Idées Cadeaux",
+          "texte": "Les épices, les bijoux en argent, les tissus colorés et les objets en bois sculpté sont de beaux souvenirs à rapporter de Djibouti."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🛫",
+      "titre": "Départ de Djibouti",
+      "legende": "C'est le moment de dire au revoir à Djibouti, la tête remplie de souvenirs inoubliables de ses paysages uniques et de son hospitalité.",
+      "lieu": "Djibouti Ville",
+      "activites": [
+        "🛏️ <strong>Petit-déjeuner à l'hôtel et check-out</strong>: Profitez d'un dernier repas avant de quitter votre hébergement.",
+        "🚗 <strong>Transfert vers l'aéroport international de Djibouti-Ambouli</strong>: Organisez votre transport pour un départ sans stress.",
+        "✈️ <strong>Vol retour vers Paris (CDG)</strong>: Emportez avec vous les images et les sensations de ce voyage exceptionnel."
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil Voyage",
+          "texte": "Prévoyez d'arriver à l'aéroport au moins 3 heures avant votre vol international pour les formalités d'enregistrement et de sécurité."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "914 €/pers (A/R depuis Paris CDG)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 600 €/pers (location 4x4, essence, ferries)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 600 €/pers (base 40€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1400 €/pers (base 100€/nuit en 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 400 €/pers (excursions, entrées, hammam)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Février à Avril", "symbole": "☀️" },
+    { "titre": "Octobre à Décembre", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le climat est désertique et chaud toute l'année. De février à avril, les températures sont agréables (25-35°C). Prévoir vêtements légers, chapeau, lunettes de soleil et crème solaire.", "symbole": "☀️" },
+    { "titre": "La monnaie est le Franc Djiboutien (DJF). Les cartes de crédit sont acceptées dans les grands hôtels et restaurants, mais prévoyez du liquide pour les marchés et les petites dépenses. Le dollar américain est aussi souvent accepté.", "symbole": "💳" },
+    { "titre": "Le permis français est suffisant pour la location de voiture. La conduite est à droite. Les routes principales sont goudronnées, mais un 4x4 est indispensable pour les excursions dans le désert et vers les lacs.", "symbole": "🚗" },
+    { "titre": "Une carte SIM locale (Djibouti Télécom) ou une eSIM est recommandée pour rester connecté. Le Wi-Fi est disponible dans la plupart des hôtels et certains cafés.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Le Lac Assal est le point le plus bas d'Afrique, situé à 155 mètres sous le niveau de la mer. Sa salinité est dix fois supérieure à celle de l'océan, ce qui en fait le troisième lac le plus salé au monde après Don Juan Pond et la Mer Morte."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Djibouti est un carrefour géopolitique majeur et abrite des bases militaires de plusieurs nations (France, États-Unis, Chine, Japon, Italie, Allemagne). On la surnomme parfois le \"porte-avions naturel\" en raison de sa position stratégique."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Skoudehkaris",
+      "description": "Un ragoût savoureux à base de riz, de viande (souvent de l'agneau ou de la chèvre) et de légumes, généreusement parfumé aux épices locales. Un plat réconfortant et typique."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Fah-fah",
+      "description": "Une soupe copieuse et nourrissante, préparée avec de la viande (généralement de chèvre ou de bœuf), des légumes frais et un mélange d'épices aromatiques. Souvent servie avec du pain pour tremper."
+    },
+    {
+      "symbole": "🥞",
+      "titre": "Lahooh",
+      "description": "Une sorte de crêpe spongieuse et légèrement aigre, très populaire au petit-déjeuner. Elle est souvent accompagnée de miel, de sucre ou d'une sauce salée à base de viande ou de légumes."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-JIB/2026-02-23/2026-03-10", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Office National du Tourisme de Djibouti", "url": "https://www.djiboutitourism.dj/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Djibouti", "url": "https://www.accuweather.com/fr/dj/djibouti/306733/weather-forecast/306733", "symbole": "🌤️" },
+    { "legende": "Santé et sécurité", "titre": "Conseils aux voyageurs (France Diplomatie)", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/djibouti/", "symbole": "🏥" }
+  ]
+}
